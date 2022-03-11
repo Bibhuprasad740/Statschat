@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245773238403",
+    "project_id": "statschat-f3247",
+    "storage_bucket": "statschat-f3247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245773238403:android:5ed2ede4b1279e632adbb6",
+        "android_client_info": {
+          "package_name": "co.cruzerblade.statschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245773238403-1n83idqdmbudikflkun9e8cl4qpkq6ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfBvDa0K6MEY9XDDBpa29V_3qXgk6QAjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245773238403-1n83idqdmbudikflkun9e8cl4qpkq6ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
